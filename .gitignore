@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (for future JavaScript projects)
+node_modules/
+
+# Environment variables (future backend or APIs)
+.env
+
+# SSH keys or private keys
+*.pem
+*.key
+*.pub
+.ssh/
+
+# VS Code settings
+.vscode
